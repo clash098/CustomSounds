@@ -21,3 +21,6 @@ Then you can go ahead and play, the Custom Sounds won't play if it hasn't been a
 
 Thank you for using my mod,
 Clash.
+
+(Credits to @pepsidee for the idea)
+(Credits to @ngbatzyt for the sound file loading code)
