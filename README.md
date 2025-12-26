@@ -19,8 +19,6 @@ Now, here's how to select the sound file for the mod:
 
 Then you can go ahead and play, the Custom Sounds won't play if it hasn't been atleast 1 seconds since joining the lobby to avoid issues, but from then on it should work!
 
-Thank you for using my mod,
-Clash.
+Thank you for using my mod, Clash.
 
-(Credits to @pepsidee for the idea)
-(Credits to @ngbatzyt for the sound file loading code)
+*Credits: @pepsidee (idea) - @ngbatzyt (sound loader)*<br>
