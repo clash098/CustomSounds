@@ -93,7 +93,7 @@ Clash.";
 
         if (audioType == AudioType.UNKNOWN)
         {
-            Logger.LogError($"Sound file {path} is not a supported audio type! (Must be .wav or .mp3)");
+            Logger.LogError($"Sound file {path} is not a supported audio type! (Must be .wav, .mp3, or .ogg)");
         }
         
         return audioType;
