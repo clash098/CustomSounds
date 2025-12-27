@@ -1,4 +1,5 @@
 ﻿# 🎵 Custom Sounds 🎵
+[![Github All Releases](https://img.shields.io/github/downloads/clash098/CustomSounds/total.svg)](github.com/clash098/CustomSounds/releases)
 
 **This is the super awesome tutorial for Custom Sounds by @uhclash!**
 
